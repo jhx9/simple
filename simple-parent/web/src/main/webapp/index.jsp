@@ -1,5 +1,15 @@
+<!DOCTYPE html>
 <html>
+<head>
+<meta charset="BIG5">
+<title>Insert title here</title>
+</head>
 <body>
-<h2>Hello World!Simple Web New</h2>
+	<p>Please enter your name:</p>
+	<form method=get action="helloworld.jsp"> 
+		<input type="text" name=firstname>
+		<input type="text" name=lastname>
+		<input type=submit value="send">
+	</form>	
 </body>
 </html>
