@@ -23,5 +23,6 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="core/src/main/java/box/boxclass.java"/>
 	<classpathentry exported="true" kind="lib" path="core/target/classes/box/boxclass.class"/>
+	<classpathentry kind="lib" path="core/src/main/java/box"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
